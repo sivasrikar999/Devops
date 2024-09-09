@@ -1,0 +1,20 @@
+      <===== Devoops =====>
+ Day-1-->
+
+What is devops?
+
+culture that improve the process of deliver
+
+--> devops is a process of improving the application delivery by ensuring the proper automation and  with application quality maintained and continous monitoring and absorbility and finailly testing.
+
+why devops?
+
+System administator
+BRE(builder relief engineer)
+Server administator
+
+these three are plays a major role to send an application from developer to the customer 
+this process is mainly done by the manually
+beacuse of this reasons the concept devops has arrived
+
+
