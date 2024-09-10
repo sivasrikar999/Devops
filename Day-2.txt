@@ -1,0 +1,20 @@
+Day-2
+
+    <=====Softwae development life cycle(SDLC)====>
+
+it is a standard followed by the software industries
+1.design
+2.Develop
+3.test the high quality product
+
+planning--->Defining--->Desigining--->Buliding--->Testing--->Deploying 
+
+Building and Testing and Deployment these three are the most important phases for the devoops engineer
+
+Building--> means Development(developer will gather the the information and buid up the specific step in their own language)
+
+Testing--> means application which is store in the repositeory(Gitgub) is taken and deployed in the serverand the QE(Quality esurence engineers) will takecare of testing the soft ware
+
+Deployment--> means promote the application to the customer
+
+usally the devops enginner do that fasten the process quickly by automated way  
