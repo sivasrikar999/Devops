@@ -7,6 +7,7 @@ culture that improve the process of deliver
 
 --> devops is a process of improving the application delivery by ensuring the proper automation and  with application quality maintained and continous monitoring and absorbility and finailly testing.
 
+Devops is all about the improving the efficeincy
 why devops?
 
 System administator
