@@ -1,0 +1,17 @@
+     Day-3
+
+               <=======Virtual Machine======>
+
+* virtualization:--> some one goes to the physical server and download the particular soft ware HYPERVISOR and this Hypervisor is capable of dividing the virtual machine into some parts so can multiple people can use this     Hypervisor
+*  UI:--> user interface( when you are accsing a google to use anything you want like you tube and  and any other thingss that is konwn as user interface 
+*  API:-->Application interface(Ex: face book and instagram)when you are asceeing the application through through the code know as API
+
+---> what kind of virtual machine should we pick
+--->B series is use for free cases(economical burstable vms) only uses for simple ones
+--->D series-->(General purpose application)
+---->E series--->(optimised for in memory application)
+---> F series--> (compute optimised virtual machine)
+ there are different ways of creating the virtual machine in azure it is called VMSS in AWS it is called Auto scalling.
+today is the one of the way we created that we go to the virtual machine directly and created the virtual machine directly.
+
+virtual network(VNET)---> a number of resources that should keep in the environment in secure.this secure network environment is called as virtual network. (puma nike example)to know the size of the virtual netwok we are using the CIDR 
