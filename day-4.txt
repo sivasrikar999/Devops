@@ -1,0 +1,13 @@
+      <======= Virtual machine ========>
+ AWS
+Script--->
+
+AWS CLI
+AWS API(BOTO3)
+AWS CFT
+Terraform(open source tool)
+AWS CDK(Progative tool of AWS)
+
+if you want to use hybrid cloud model you can use terraform
+ or else if you want to use the single cloud model you can use
+CLI or CDK
