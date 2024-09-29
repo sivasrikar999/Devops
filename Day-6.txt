@@ -1,0 +1,65 @@
+Day-6
+
+<------Linux operating system and basics of shellscripting----->
+
+operating system is the heart of the system 
+---> linux is a free open source system
+----> and it is a more secure 
+---> and i tis very fast
+--->people use linux more than the windows for the above reasons
+
+ARCHITURE-->
+
+
+
+  system        user          compiliers
+  software      processs 
+
+             System libraries
+             
+                  Kernal
+
+
+ kernal----->
+
+ is the heart of linux operating system it is build the communication between the linux operating system and the software
+
+it is responsible for 
+1.device management
+2.memory management
+3.process management
+4.handling and system management
+
+
+System libriaries-->
+responsible for the performing the task
+
+FUNDAMENTAL OF SHELL SCRIPTING--->
+
+in the linux the way you are  talk operating the is known as shell commands
+ 
+
+commads in the shell scripting--->
+
+ls---> what are the files are avaible in the directory.
+pwd--->(present working directory)---> to know the location of the file
+to move from one directory to another--->cd(change directory)
+
+ls-ltr--> to konw wether it is a file aor folder with its properties like owner,groupowner,
+
+touch-->to create the new file
+vi-->to creat the file and write in that file
+rm--> to temove the file 
+to create the directory we use "mkdir file name"
+free-d--> to know the memory of the system
+df-h---> to know the disk size
+
+****--->what is the command is used to manage the memory cpu and look into the details of it it is TOP command 
+top-->to get complete information about the system(memory,cpu,disk)
+
+for individual we can use the free command
+for cpu-->nproc
+for disc-->df
+
+Linux programming 
+pwd-->ls--->cd-->pwd  
