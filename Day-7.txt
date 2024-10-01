@@ -1,0 +1,40 @@
+<----------------Day-7-------------->
+ 
+Write a script tp report the usage of AWS in your project
+
+Primary reasons some one has move to the clouds
+
+1.Management
+2.Cost
+
+how can you tell that a certain script in xor y time then the ans would be the by the help of the cronjob by the help of the cronjob we can scheduel the event at a particular time.
+
+shell scripting for the aws project
+
+# Author : Srikar
+# Date 1-oct
+# This script wil report the AWS resource usage 
+######################
+
+set-x
+
+ #AWS S3
+ #AWS EC2
+ #AWS Lamda
+ #AWS IAM User
+
+# aws s3 buckets
+echo "Print list of s3 buckets"
+aws s3 ls > resource tracker
+# lst EC2 instances
+aws ec2 describe-instances
+echo "Print list of Ec2 instances
+#list lamda
+aws lamda list-functions > resource tracker
+echo "Print list of lamda fumctions"
+# list IAM users
+aws iam List -users > resource tracker
+echo "Pront list of IAM Users"
+
+
+Every out put can redirect into the file with the command name resource tracker
