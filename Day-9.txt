@@ -1,0 +1,39 @@
+<----------Day-9---------->
+
+Git and Git hub
+
+Version control System --->
+
+1.Sharing of code
+2.versioning
+
+version control--->
+--> CVS
+-->SVN
+these two are "centralised control system"
+
+-->GIT--> "distributed control system
+
+WHAT IS MENT BY THE "FORK"
+
+if we had a file of the programming you can copy the file and name it as a fork for example the original file name was Srikar.com and the copy file name was for Srikar.com
+
+now a days CVS and SVN are not using 
+
+Git Vs Git hub
+
+git is a open source thing 
+while the orgination do the better things in terms of better solutions of usability,in terms of issues commenting,reviewing the code and the Project management.
+
+--> "git commands"
+
+--->git add--> to keep the track the file we this command
+
+--->git commit--> to make the changes or to modify anything in the current file
+
+--->git push
+
+--->git diff is used to know the exact changes that modified in the file
+
+---->git log--> if you want to go to the previous versionthen we will used this and then we use git reset --hard and here copy the address of previous version
+
