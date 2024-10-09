@@ -1,0 +1,28 @@
+<-----------GIT BRANCHING STRATEGY------------>
+
+What is ment by the branch?
+
+--> simply it is a seperation
+
+Master Branch
+Feature branch
+Release branch
+
+with out interupting the main path we have creating the alternative path "Feature branch"  to modify or creating new feature or any thing else and added back in the main path or master branch this is the concept if branch generally
+
+After the updating the all the features in the master branch 
+then we sholud delivery that to the customer we should release the "release branch"
+
+What is the other branch is commanly use other than this branches?
+--->Hotfix branch-->V3(customer version)-->this will address the changesthat customer required and it willl merge to all branches master baranch feature branch and all 
+
+
+From which branch do you usally do releases?
+-->Release branch
+
+
+what is ment by the feature branch?
+-->when ever people want to make a changes from the existing functionality then we will use the feature branches. 
+
+What is the branch that updatedd up to date?
+---> it is master trunk or main branch. 
